@@ -364,8 +364,8 @@ checksum = "1261fe7e33c73b354eab43b1273a57c8f967d0391e80353e51f764ac02cf6775"
 
 [[package]]
 name = "otp_exchange"
-version = "0.1.0"
-source = "git+https://github.com/NickyNocerino/otp-exchange.git#82018967dca28453c2471a64db7c2f8d595c3ce8"
+version = "0.1.1"
+source = "git+https://github.com/NickyNocerino/otp-exchange.git#44470f9b32f06f941664737e99f20a5151fb5f26"
 dependencies = [
  "pyo3",
  "rand",
