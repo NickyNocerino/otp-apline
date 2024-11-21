@@ -4,4 +4,4 @@ version = "1.0.0"
 edition = "2021"
 
 [dependencies]
-otp_exchange = { git = "https://github.com/NickyNocerino/otp-exchange.git", version = "0.1.1" }
+otp_exchange = { git = "https://github.com/NickyNocerino/otp-exchange.git", version = "0.1.2" }
